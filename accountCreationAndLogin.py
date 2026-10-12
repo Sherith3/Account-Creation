@@ -70,5 +70,7 @@ print("Contact admin: 0754967643")
 # ENHANCEMENTS
 # - The programmer(Sheri) Can view all students who have an account(TO DO)
 # User(Those who already have an account) can log in. # If not allow the user to create one (DONE)
-# Can attempt to log in only 3 times if the first 2 attempts were incorrect(TO DO)
+# Can attempt to log in only 3 times if the first 2 attempts were incorrect(DONE)
 
+#Suggested enhancements:
+# Add a menu to choose between logging in and creating an account
